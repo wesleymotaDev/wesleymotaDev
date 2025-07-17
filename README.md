@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ### 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wesley-melo-mota)
-[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wesley.melo.dev0701@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.wesley.melo701@gmail.com)
 
 ### 📈 Estatísticas
 
