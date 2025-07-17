@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - no ramo portuário e breve momento como assistente de analista.
 - 🌱 Estou focado em estudo atualmente em RedTeam.
 - tenho como objetivo com este repositório desenvolver scripts voltados a segurança da informação.
-### 🛠️ Tecnologias de meu conhecimento
+### 🛠️ Tecnologias que eu tenho conhecimento
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
